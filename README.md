@@ -2,18 +2,18 @@
 
 
 <h1 align="center">Hi👋, I'm Nikhil Bansode</h1>
-<h3 align="center">A full stack developer with ML domain experience from India</h3>
+<h3 align="center">A full stack developer with ML domain experience</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5uenVvbHZ4bXBjMWY5Mng0azVvbDMxNDU4a3JzM2ZuN3g4emdkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4C9R88vOXUzuHzshHz/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=n3kh3l)
-- 🔭 I’m currently working on **full stack application developement**
+- 🔭 I’m currently working on **full stack application development**
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **LangChain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/n3kh3l](https://github.com/n3kh3l)
 
-- 💬 Ask me about **full stack development including devops and machine learning**
+- 💬 Ask me about **full stack development including DevOps and machine learning**
 
 - 📫 How to reach me niikhilbansode@gmail.com
 
